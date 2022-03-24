@@ -2,13 +2,11 @@
 ----
 
 ## Contact me
-<br>
 <a href="mailto:ewerton12freitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 <a href="https://www.linkedin.com/in/ewerton12freitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 ----
+
 ## About me
-<br>
 - 👋 Hi, I’m @Ewerton12F
 - 👀 I’m interested in Python development
 - 🌱 I’m currently learning more Python
