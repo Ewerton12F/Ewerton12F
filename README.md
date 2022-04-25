@@ -8,7 +8,7 @@
 ## About me
 * 👋 Hi, I’m a student of System Analysis and Development
 * 👀 I’m interested in Python's frameworks development in backend
-* 🌱 I’m currently learning Django Rest Framework and FasstAPI
+* 🌱 I’m currently learning Django Rest Framework and FastAPI
 * 💞️ I’m looking for work
 
 ----
