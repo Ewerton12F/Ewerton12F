@@ -1,6 +1,14 @@
 ## Contact me  
 <div>
-<a href="mailto:ewerton12freitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/ewerton12freitas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ewerton12freitas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/ewerton12freitas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://open.spotify.com/user/oozkb3zno7ebclw09gmmyxgkw?si=3102a8a63e114146">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
 </div>  
 
 ----
@@ -15,6 +23,8 @@
 
 ## Have a look at my repositories 
 
+
+* [Flask + Docker + MySQL](https://github.com/Ewerton12F/API-Flask-MySQL)
 * [Django Rest Framework + React](https://github.com/Ewerton12F/Trainer-PokeAPI)
 * [FastAPI + Docker + MongoDB](https://github.com/Ewerton12F/FastAPI-Trainer-PokeAPI)
 
