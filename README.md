@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEwerton12F&countColor=%23263759)
+
 # <p align="center">🚧 Under construction 🚧</p>
 
 <p align="center">I will be updating this page during the week.</p>
