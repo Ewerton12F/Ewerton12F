@@ -17,8 +17,26 @@ a website created with Next.JS, React JS and Tailwind. You can have a look [here
 I dropped out of college but still aspire to be a Computer Scientist. I'm reading
 these books:
 
-- [Introdução à Programação com Python. 3. ed][python-book-1]
+- [Introdução à Programação com Python][python-book-1]
+  (*Introduction to Programming with Python*)
+- [Elements of Programming Interviews in Python][python-book-2]
+- [Two Scoops of Django 3.x][django-book-1]
 - [Lógica de Programação e Algoritmos com JavaScript][javascript-book-1]
+  (*Programming Logic and Algorithms with JavaScript*)
+- [Learning JavaScript Data Structures and Algorithms][javascript-book-2]
+- [Grokking Algorithms][algorithms-book-1]
+- [Getting Started with SQL][sql-book-1]
+- [Expressões Regulares][regex-book-1]
+  (*Regular Expressions*)
+- [Becoming a Better Programmer][programming-book-1]
 
-[python-book-1]: https://www.amazon.com.br/gp/product/8575227181/ref=dbs_a_def_rwt_bibl_vppi_i1
-[javascript-book-1]: https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-Javascript/dp/8575226568/ref=sr_1_3?qid=1681846159&refinements=p_27%3AEd%C3%A9cio+Fernando+Iepsen&s=books&sr=1-3&text=Ed%C3%A9cio+Fernando+Iepsen
+
+[python-book-1]: https://a.co/d/fXOLCsJ
+[python-book-2]: https://a.co/d/fHX5h4A
+[django-book-1]: https://www.feldroy.com/books/two-scoops-of-django-3-x
+[javascript-book-1]: https://a.co/d/1obfWad
+[javascript-book-2]: https://a.co/d/bc5wUyl
+[algorithms-book-1]: https://a.co/d/32bcRlj
+[sql-book-1]: https://a.co/d/eh60QZn
+[regex-book-1]: https://a.co/d/1gV0ipj
+[programming-book-1]: https://a.co/d/4AlwwT1
