@@ -14,8 +14,8 @@ a website created with Next.JS, React JS and Tailwind. You can have a look [here
 
 # Education
 
-I dropped out of college but still aspire to be a Computer Scientist. I'm reading
-these books:
+I dropped out of college but still aspire to become a Computer Scientist. I'm reading
+these books now:
 
 - [Introdução à Programação com Python][python-book-1]
   (*Introduction to Programming with Python*)
