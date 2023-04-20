@@ -31,6 +31,9 @@ these books now:
 - [Becoming a Better Programmer][programming-book-1]
 
 
+Dropping out of college was not an easy choice but it was better for me because I can efficiently manage the contents that I have to study and when I have to study them, unlike in college where the syllabuses were (apparently) disconnected from each other
+
+
 [python-book-1]: https://a.co/d/fXOLCsJ
 [python-book-2]: https://a.co/d/fHX5h4A
 [django-book-1]: https://www.feldroy.com/books/two-scoops-of-django-3-x
@@ -41,4 +44,4 @@ these books now:
 [regex-book-1]: https://a.co/d/1gV0ipj
 [programming-book-1]: https://a.co/d/4AlwwT1
 
-[repository]: (https://github.com/Ewerton12F/test-website)
+[repository]: https://github.com/Ewerton12F/test-website
