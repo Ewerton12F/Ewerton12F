@@ -10,7 +10,7 @@
 
 Hi! If you are here it's because you are looking for some code and I just update
 my repository with one bautiful project that I design and build by my own, it's
-a website created with Next.JS, React JS and Tailwind. You can have a look [here](https://github.com/Ewerton12F/test-website).
+a website created with Next.JS, React JS and Tailwind. You can have a look [here][repository].
 
 # Education
 
@@ -40,3 +40,5 @@ these books now:
 [sql-book-1]: https://a.co/d/eh60QZn
 [regex-book-1]: https://a.co/d/1gV0ipj
 [programming-book-1]: https://a.co/d/4AlwwT1
+
+[repository]: (https://github.com/Ewerton12F/test-website)
