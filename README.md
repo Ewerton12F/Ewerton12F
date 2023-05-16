@@ -22,9 +22,9 @@ In the Next.js side I’m using Typescript. It has been a challenge since it's a
 
 There’s more information on the repository (I’m currently writing the documentation).
 
-You can access the Django Github repository in this [link][repo-web].
+You can access the Django Github repository in this [link][repo-server].
 
-You can access the Next.js Github repository in this [link][repo-server].
+You can access the Next.js Github repository in this [link][repo-web].
 
 
 # Education
